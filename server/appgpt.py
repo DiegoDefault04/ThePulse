@@ -26,7 +26,7 @@ CORS(app)
 # Colores para la nube de palabras
 colors = ['#8A2BE2', '#1E90FF', '#9370DB', '#0000FF', '#483D8B']
 conclusion_global = ""
-openai.api_key = "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"
+openai.api_key = "API-KEY"
 
 # Configuración NLTK y recursos
 nltk.download('punkt')
